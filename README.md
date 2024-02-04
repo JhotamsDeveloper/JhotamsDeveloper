@@ -1,14 +1,14 @@
 <!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
 
 ```shell
- { “name” : “Jhonatan Alejandro Muñoz Serna”,
-   “role” : “Software architect | Developer”,
-   “social” : 
-     { 
-      "linkedin" : "https://www.linkedin.com/in/jhotams/", 
-      "github"   : "https://github.com/JhotamsDeveloper"
-     }
- }
+{ 
+  "name" : "Jhonatan Alejandro Muñoz Serna",
+  "role" : "Software architect | Developer",
+  "social" : {
+    "linkedin": "https://www.linkedin.com/in/jhotams/",
+    "github"   : "https://github.com/JhotamsDeveloper"
+  }
+}
 ```
   
 <h4>Backend Development</h4>
